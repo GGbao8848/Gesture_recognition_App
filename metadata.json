@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Gesture ID",
+  "description": "Real-time hand gesture recognition system powered by Google Gemini 2.5 Flash. Detects gestures like 'Thumbs Up', 'Peace Sign', and 'Open Palm' instantly via webcam.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
